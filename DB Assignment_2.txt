@@ -1,0 +1,35 @@
+1- How many annual contracts with a value higher than or equal to $100,000 have been registered in the salaries table?
+
+2- How many managers do we have in the “employees” database?
+
+3-Select all data from the “employees” table, ordering it by “hire date” in descending order.
+
+4- Write a query that obtains two columns. The first column must contain annual salaries higher than 80,000 dollars. The second column, renamed to “emps_with_same_salary”, must show the number of employees contracted to that salary. Lastly, sort the output by the first column.
+
+5-Select all employees whose average salary is higher than $120,000 per annum.
+
+Hint: You should obtain 101 records.
+
+6- Select the employee numbers of all individuals who have signed more than 1 contract after the 1st of January 2000.
+
+Hint: To solve this exercise, use the “dept_emp” table.
+
+7- Select the first 100 rows from the ‘dept_emp’ table. 
+
+8-How many departments are there in the “employees” database? Use the ‘dept_emp’ table to answer the question.
+
+9- What is the total amount of money spent on salaries for all contracts starting after the 1st of January 1997?
+
+10- Which is the lowest employee number in the database?
+
+11-What is the average annual salary paid to employees who started after the 1st of January 1997?
+
+12- Extract the information about all department managers who were hired between the 1st of January 1990 and the 1st of January 1995.
+
+13- Get the employee numbers who are in Human Resource department
+
+14 - get the name of the oldest employee
+
+15 - get the name of the earilest hired employee
+
+16 - get the employees names who have title senior engineer
